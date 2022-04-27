@@ -128,4 +128,21 @@ ul li {
 
     html { font-size: 40.0%; }
     body { font-size: 1.4rem; }
+
+    a {
+
+        background: #eb6f00;
+        color: #FFF;
+        text-decoration: none;
+        padding: 0.5rem 1rem!important;
+        border-radius: 1rem;
+        transition: .6s;
+    }
+
+    strong {
+
+        color: var(--blue);
+        font-size: 2.0rem;
+    
+    }
 }
